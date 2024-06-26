@@ -21,7 +21,7 @@ Interestingly, language-specific syntax highlighting can be achieved when the la
 var myVar = "Hello, world!";
 ```
 In the above code, syntax highlighting for the javascript language has been enabled.
-
+______________________________________________________________________________________________
 ### Now adding a task list
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
